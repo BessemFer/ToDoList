@@ -1,0 +1,17 @@
+{
+  "name": "todo-list",
+  "version": "0.1.0",
+  "description": "un gestionnaire de todolist ultra basique",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bassem.fer@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0"
+  }
+}
